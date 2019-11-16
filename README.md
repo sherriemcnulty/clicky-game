@@ -10,7 +10,7 @@ This is a memory game in which the user tries to click on all of the cards witho
 
 ## Live Preview
 
-[Clicky Game](https://clicky-game-srm2.herokuapp.com/)
+[Clicky Game](https://clicky-game-srm.herokuapp.com/)
 
 ## Description
 
