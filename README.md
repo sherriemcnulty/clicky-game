@@ -22,13 +22,6 @@ Clicky Game is a memory game.
 
 - React
 
-### Back-end
-
-- MySQL
-- Node.js
-- Express.js
-- Express-Handlebars
-
 ### Deployment
 
 - Heroku
