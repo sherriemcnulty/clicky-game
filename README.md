@@ -8,8 +8,5 @@ This is a memory game in which the user tries to click on all of the cards witho
 
 ## Technologies
 
+- Node
 - React
-
-### Deployment
-
-- Heroku
